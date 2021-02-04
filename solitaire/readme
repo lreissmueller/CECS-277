@@ -1,0 +1,2 @@
+Solitaire Prime - Version of Solitaire in which cards are dealt until the sum of the pile is prime, thus a new pile is created. 
+This is repeated until the last card -- if the last pile is prime, you are a winner, else the game is a loss.
